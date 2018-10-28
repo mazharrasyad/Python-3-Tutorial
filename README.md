@@ -1,2 +1,7 @@
-# Python-3-Tutorial
-Learn Python
+# About
+
+- Muhammad Azhar Rasyad
+
+# Referensi
+
+- https://www.sololearn.com/Course/Python/
