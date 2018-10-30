@@ -1,6 +1,11 @@
 # 1. What is Python ?
 
+- Python is a Programming language
+- CPython is an implementation of Python
+
 # 2. Your First Program
+
+- Code in print.py
 
 # 3. Simple Operations
 
