@@ -1,3 +1,5 @@
+# ================================================== #
+
 # Materi 1 : Your First Program
 print('Hello World!')
 
@@ -6,6 +8,8 @@ print('Hello World!')
 
 # Jawaban 1 :
 print("Hi")
+
+# ================================================== #
 
 # Materi 2 : Printing Text
 print('Hello world!')
@@ -17,3 +21,5 @@ print('Spam and eggs...')
 
 # Jawaban 2 :
 print('ni ni ni')
+
+# ================================================== #

@@ -9,6 +9,8 @@
 
 # 3. Simple Operations
 
+- Code in simple_operations.py
+
 # 4. Floats
 
 # 5. Other Numerical Operations
