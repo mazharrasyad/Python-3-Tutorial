@@ -17,6 +17,8 @@
 
 # 5. Other Numerical Operations
 
+- Code in other_numerical_operations.py
+
 # 6. Strings
 
 # 7. Simple Input & Output
