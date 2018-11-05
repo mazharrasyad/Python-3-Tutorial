@@ -21,6 +21,8 @@
 
 # 6. Strings
 
+- Code in strings.py
+
 # 7. Simple Input & Output
 
 # 8. String Operations
