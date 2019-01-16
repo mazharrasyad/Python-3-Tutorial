@@ -25,14 +25,29 @@
 
 # 7. Simple Input & Output
 
+- Code in simple_input_output.py
+
 # 8. String Operations
+
+- Code in string_operations.py
 
 # 9. Type Conversion
 
+- Code in type_conversion.py
+
 # 10. Variables
+
+- Code in variables.py
 
 # 11. In-Place Operators
 
+- Code in in_place_operators.py
+
 # 12. Using an Editor
 
+- File extension for python is .py
+- Which lines are executed when a Python file is run? Every line
+
 # 13. Quiz
+
+- Code in quiz.py
