@@ -50,4 +50,4 @@
 
 # 13. Quiz
 
-- Code in quiz.py
+- Code in quiz1.py
