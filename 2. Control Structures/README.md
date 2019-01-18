@@ -46,6 +46,6 @@
 
 - Code in a_simple_calculator.py
 
-# 13. Quiz
+# 13. Module 2 Quiz
 
-- Code in quiz2.py
+- Code in module_2_quiz.py

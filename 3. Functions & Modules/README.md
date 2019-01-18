@@ -33,6 +33,6 @@
 - What name is given to Python's preinstalled modules? The Standard Library
 - What does PyPI stand for? Python Package Index
 
-# 9. Quiz
+# 9. Module 3 Quiz
 
-- Code in quiz3.py
+- Code in module_3_quiz.py

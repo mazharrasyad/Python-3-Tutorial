@@ -48,6 +48,6 @@
 - File extension for python is .py
 - Which lines are executed when a Python file is run? Every line
 
-# 13. Quiz
+# 13. Module 1 Quiz
 
-- Code in quiz1.py
+- Code in module_1_quiz.py
