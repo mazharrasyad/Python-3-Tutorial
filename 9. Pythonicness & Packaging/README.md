@@ -4,7 +4,8 @@
 
 # 2. PEP
 
-- Code in pep.py
+- Which choice is PEP 8-compliant as the name of a class? MyClassName
+- What is the recommended length limit for a line of code? 80
 
 # 3. More on Function Arguments
 
@@ -24,11 +25,12 @@
 
 # 7. __main__
 
-- Code in __main__.py
+- Code in sololearn.py
 
 # 8. Major 3rd-Party Libraries
 
-- Code in major_3rd-party_libraries.py
+- Which of these is a web framework? Django
+- Is it possible to use Python on its own to develop games? Yes
 
 # 9. Packages
 
@@ -36,7 +38,7 @@
 
 # 10. Packaging for Users
 
-- Code in packaging_for_users.py
+- Which of these does not convert Python scripts to Windows executables? PyExecutable
 
 # 11. Module 9 Quiz
 
